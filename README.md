@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nns2k7
-- 👀 I’m interested in Girl
+- 👋 Hi, I’m Nguyễn Nhật Sang
+- 👀 I’m interested Girl
 - 🌱 I’m currently learning Thcs An Luc Long
 - 💞️ I’m looking to collaborate on Nguyen Huynh Anh Duong
 - 📫 How to reach me sangmedia9@gmail.com
